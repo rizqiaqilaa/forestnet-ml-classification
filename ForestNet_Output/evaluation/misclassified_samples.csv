@@ -1,0 +1,150 @@
+sample_idx,true_label,pred_label,split
+5,Other,Smallholder agriculture,test
+6,Grassland shrubland,Plantation,test
+8,Plantation,Smallholder agriculture,test
+13,Grassland shrubland,Plantation,test
+15,Grassland shrubland,Plantation,test
+18,Other,Plantation,test
+21,Plantation,Other,test
+29,Grassland shrubland,Smallholder agriculture,test
+30,Smallholder agriculture,Plantation,test
+31,Smallholder agriculture,Plantation,test
+33,Grassland shrubland,Plantation,test
+39,Smallholder agriculture,Plantation,test
+47,Grassland shrubland,Plantation,test
+48,Grassland shrubland,Plantation,test
+49,Plantation,Smallholder agriculture,test
+50,Grassland shrubland,Plantation,test
+51,Plantation,Smallholder agriculture,test
+52,Smallholder agriculture,Plantation,test
+56,Other,Smallholder agriculture,test
+58,Plantation,Other,test
+60,Smallholder agriculture,Plantation,test
+63,Smallholder agriculture,Plantation,test
+66,Grassland shrubland,Smallholder agriculture,test
+70,Other,Smallholder agriculture,test
+72,Other,Plantation,test
+75,Grassland shrubland,Plantation,test
+76,Smallholder agriculture,Plantation,test
+80,Smallholder agriculture,Plantation,test
+82,Other,Smallholder agriculture,test
+85,Smallholder agriculture,Plantation,test
+89,Smallholder agriculture,Plantation,test
+92,Plantation,Grassland shrubland,test
+97,Smallholder agriculture,Plantation,test
+102,Plantation,Smallholder agriculture,test
+104,Grassland shrubland,Plantation,test
+106,Smallholder agriculture,Plantation,test
+108,Other,Plantation,test
+111,Smallholder agriculture,Plantation,test
+112,Smallholder agriculture,Plantation,test
+113,Smallholder agriculture,Plantation,test
+114,Smallholder agriculture,Plantation,test
+115,Grassland shrubland,Plantation,test
+116,Grassland shrubland,Plantation,test
+118,Smallholder agriculture,Plantation,test
+120,Other,Plantation,test
+126,Plantation,Smallholder agriculture,test
+128,Plantation,Smallholder agriculture,test
+130,Smallholder agriculture,Plantation,test
+131,Smallholder agriculture,Plantation,test
+132,Smallholder agriculture,Plantation,test
+136,Other,Plantation,test
+138,Smallholder agriculture,Other,test
+141,Other,Plantation,test
+143,Plantation,Smallholder agriculture,test
+144,Plantation,Other,test
+150,Plantation,Other,test
+158,Grassland shrubland,Plantation,test
+159,Other,Plantation,test
+161,Other,Smallholder agriculture,test
+162,Smallholder agriculture,Plantation,test
+167,Plantation,Smallholder agriculture,test
+170,Smallholder agriculture,Other,test
+175,Grassland shrubland,Plantation,test
+177,Grassland shrubland,Other,test
+178,Smallholder agriculture,Plantation,test
+179,Smallholder agriculture,Plantation,test
+181,Smallholder agriculture,Plantation,test
+187,Plantation,Smallholder agriculture,test
+189,Other,Smallholder agriculture,test
+192,Grassland shrubland,Other,test
+193,Plantation,Other,test
+196,Smallholder agriculture,Plantation,test
+198,Grassland shrubland,Plantation,test
+199,Smallholder agriculture,Plantation,test
+201,Other,Smallholder agriculture,test
+202,Smallholder agriculture,Plantation,test
+209,Smallholder agriculture,Plantation,test
+210,Smallholder agriculture,Plantation,test
+213,Smallholder agriculture,Plantation,test
+215,Other,Plantation,test
+216,Plantation,Other,test
+219,Smallholder agriculture,Plantation,test
+220,Smallholder agriculture,Plantation,test
+226,Smallholder agriculture,Other,test
+230,Grassland shrubland,Other,test
+232,Grassland shrubland,Plantation,test
+233,Other,Plantation,test
+234,Grassland shrubland,Plantation,test
+237,Smallholder agriculture,Plantation,test
+241,Other,Plantation,test
+242,Plantation,Smallholder agriculture,test
+244,Plantation,Smallholder agriculture,test
+249,Smallholder agriculture,Plantation,test
+253,Grassland shrubland,Plantation,test
+254,Other,Plantation,test
+255,Plantation,Smallholder agriculture,test
+258,Other,Plantation,test
+262,Grassland shrubland,Plantation,test
+263,Plantation,Smallholder agriculture,test
+266,Smallholder agriculture,Plantation,test
+268,Grassland shrubland,Plantation,test
+269,Grassland shrubland,Smallholder agriculture,test
+270,Smallholder agriculture,Grassland shrubland,test
+272,Other,Plantation,test
+275,Smallholder agriculture,Other,test
+277,Other,Grassland shrubland,test
+278,Smallholder agriculture,Plantation,test
+281,Smallholder agriculture,Plantation,test
+288,Plantation,Smallholder agriculture,test
+291,Smallholder agriculture,Other,test
+296,Plantation,Smallholder agriculture,test
+298,Smallholder agriculture,Plantation,test
+299,Plantation,Smallholder agriculture,test
+301,Smallholder agriculture,Plantation,test
+308,Other,Plantation,test
+314,Plantation,Smallholder agriculture,test
+315,Smallholder agriculture,Plantation,test
+320,Smallholder agriculture,Plantation,test
+323,Other,Grassland shrubland,test
+324,Other,Plantation,test
+327,Grassland shrubland,Plantation,test
+328,Grassland shrubland,Plantation,test
+330,Other,Smallholder agriculture,test
+334,Other,Smallholder agriculture,test
+335,Smallholder agriculture,Plantation,test
+336,Smallholder agriculture,Plantation,test
+337,Other,Plantation,test
+340,Plantation,Other,test
+341,Grassland shrubland,Plantation,test
+344,Plantation,Smallholder agriculture,test
+346,Smallholder agriculture,Plantation,test
+348,Grassland shrubland,Smallholder agriculture,test
+349,Grassland shrubland,Other,test
+350,Grassland shrubland,Plantation,test
+363,Smallholder agriculture,Plantation,test
+365,Other,Plantation,test
+366,Plantation,Smallholder agriculture,test
+371,Grassland shrubland,Plantation,test
+379,Other,Smallholder agriculture,test
+382,Grassland shrubland,Other,test
+385,Plantation,Grassland shrubland,test
+390,Smallholder agriculture,Plantation,test
+391,Grassland shrubland,Plantation,test
+396,Smallholder agriculture,Grassland shrubland,test
+398,Smallholder agriculture,Other,test
+401,Other,Plantation,test
+402,Smallholder agriculture,Plantation,test
+406,Other,Smallholder agriculture,test
+409,Plantation,Smallholder agriculture,test

@@ -1,0 +1,415 @@
+y_true,y_pred,true_label,pred_label
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+1,3,Other,Smallholder agriculture
+0,2,Grassland shrubland,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,3,Plantation,Smallholder agriculture
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+0,2,Grassland shrubland,Plantation
+2,2,Plantation,Plantation
+0,2,Grassland shrubland,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+1,2,Other,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+2,1,Plantation,Other
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+1,1,Other,Other
+0,3,Grassland shrubland,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+0,2,Grassland shrubland,Plantation
+0,0,Grassland shrubland,Grassland shrubland
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+0,2,Grassland shrubland,Plantation
+0,2,Grassland shrubland,Plantation
+2,3,Plantation,Smallholder agriculture
+0,2,Grassland shrubland,Plantation
+2,3,Plantation,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+1,3,Other,Smallholder agriculture
+1,1,Other,Other
+2,1,Plantation,Other
+1,1,Other,Other
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+0,3,Grassland shrubland,Smallholder agriculture
+1,1,Other,Other
+1,1,Other,Other
+2,2,Plantation,Plantation
+1,3,Other,Smallholder agriculture
+2,2,Plantation,Plantation
+1,2,Other,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+0,2,Grassland shrubland,Plantation
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+1,3,Other,Smallholder agriculture
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+1,1,Other,Other
+2,2,Plantation,Plantation
+2,0,Plantation,Grassland shrubland
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,3,Plantation,Smallholder agriculture
+1,1,Other,Other
+0,2,Grassland shrubland,Plantation
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+1,2,Other,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+3,2,Smallholder agriculture,Plantation
+3,2,Smallholder agriculture,Plantation
+3,2,Smallholder agriculture,Plantation
+0,2,Grassland shrubland,Plantation
+0,2,Grassland shrubland,Plantation
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+1,2,Other,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+1,1,Other,Other
+2,2,Plantation,Plantation
+2,3,Plantation,Smallholder agriculture
+2,2,Plantation,Plantation
+2,3,Plantation,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+3,2,Smallholder agriculture,Plantation
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+1,1,Other,Other
+1,2,Other,Plantation
+2,2,Plantation,Plantation
+3,1,Smallholder agriculture,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+1,2,Other,Plantation
+2,2,Plantation,Plantation
+2,3,Plantation,Smallholder agriculture
+2,1,Plantation,Other
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+1,1,Other,Other
+2,1,Plantation,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+1,1,Other,Other
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+0,2,Grassland shrubland,Plantation
+1,2,Other,Plantation
+2,2,Plantation,Plantation
+1,3,Other,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,3,Plantation,Smallholder agriculture
+1,1,Other,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+3,1,Smallholder agriculture,Other
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+0,2,Grassland shrubland,Plantation
+2,2,Plantation,Plantation
+0,1,Grassland shrubland,Other
+3,2,Smallholder agriculture,Plantation
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,3,Plantation,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+1,3,Other,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+0,1,Grassland shrubland,Other
+2,1,Plantation,Other
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+0,2,Grassland shrubland,Plantation
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+1,3,Other,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+1,2,Other,Plantation
+2,1,Plantation,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+3,2,Smallholder agriculture,Plantation
+1,1,Other,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+1,1,Other,Other
+2,2,Plantation,Plantation
+3,1,Smallholder agriculture,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+0,1,Grassland shrubland,Other
+0,0,Grassland shrubland,Grassland shrubland
+0,2,Grassland shrubland,Plantation
+1,2,Other,Plantation
+0,2,Grassland shrubland,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+1,2,Other,Plantation
+2,3,Plantation,Smallholder agriculture
+2,2,Plantation,Plantation
+2,3,Plantation,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+0,2,Grassland shrubland,Plantation
+1,2,Other,Plantation
+2,3,Plantation,Smallholder agriculture
+1,1,Other,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+1,2,Other,Plantation
+2,2,Plantation,Plantation
+1,1,Other,Other
+1,1,Other,Other
+0,2,Grassland shrubland,Plantation
+2,3,Plantation,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+0,2,Grassland shrubland,Plantation
+0,3,Grassland shrubland,Smallholder agriculture
+3,0,Smallholder agriculture,Grassland shrubland
+2,2,Plantation,Plantation
+1,2,Other,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,1,Smallholder agriculture,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+1,0,Other,Grassland shrubland
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+1,1,Other,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+2,3,Plantation,Smallholder agriculture
+2,2,Plantation,Plantation
+1,1,Other,Other
+3,1,Smallholder agriculture,Other
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,3,Plantation,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+2,3,Plantation,Smallholder agriculture
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+1,1,Other,Other
+1,2,Other,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+2,3,Plantation,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+0,0,Grassland shrubland,Grassland shrubland
+2,2,Plantation,Plantation
+1,0,Other,Grassland shrubland
+1,2,Other,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+0,2,Grassland shrubland,Plantation
+0,2,Grassland shrubland,Plantation
+1,1,Other,Other
+1,3,Other,Smallholder agriculture
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+1,3,Other,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+3,2,Smallholder agriculture,Plantation
+1,2,Other,Plantation
+2,2,Plantation,Plantation
+0,0,Grassland shrubland,Grassland shrubland
+2,1,Plantation,Other
+0,2,Grassland shrubland,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,3,Plantation,Smallholder agriculture
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+0,3,Grassland shrubland,Smallholder agriculture
+0,1,Grassland shrubland,Other
+0,2,Grassland shrubland,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+1,1,Other,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+1,1,Other,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+3,2,Smallholder agriculture,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+1,2,Other,Plantation
+2,3,Plantation,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+0,2,Grassland shrubland,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+0,0,Grassland shrubland,Grassland shrubland
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+0,0,Grassland shrubland,Grassland shrubland
+1,3,Other,Smallholder agriculture
+2,2,Plantation,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+0,1,Grassland shrubland,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,0,Plantation,Grassland shrubland
+1,1,Other,Other
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,2,Smallholder agriculture,Plantation
+0,2,Grassland shrubland,Plantation
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+2,2,Plantation,Plantation
+3,0,Smallholder agriculture,Grassland shrubland
+2,2,Plantation,Plantation
+3,1,Smallholder agriculture,Other
+1,1,Other,Other
+1,1,Other,Other
+1,2,Other,Plantation
+3,2,Smallholder agriculture,Plantation
+2,2,Plantation,Plantation
+1,1,Other,Other
+1,1,Other,Other
+1,3,Other,Smallholder agriculture
+1,1,Other,Other
+2,2,Plantation,Plantation
+2,3,Plantation,Smallholder agriculture
+2,2,Plantation,Plantation
+1,1,Other,Other
+3,3,Smallholder agriculture,Smallholder agriculture
+2,2,Plantation,Plantation

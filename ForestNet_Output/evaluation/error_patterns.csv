@@ -1,0 +1,13 @@
+true_label,pred_label,count
+Smallholder agriculture,Plantation,47
+Grassland shrubland,Plantation,25
+Plantation,Smallholder agriculture,20
+Other,Plantation,18
+Other,Smallholder agriculture,11
+Plantation,Other,7
+Smallholder agriculture,Other,6
+Grassland shrubland,Other,5
+Grassland shrubland,Smallholder agriculture,4
+Other,Grassland shrubland,2
+Plantation,Grassland shrubland,2
+Smallholder agriculture,Grassland shrubland,2
